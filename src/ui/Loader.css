@@ -1,0 +1,15 @@
+.loader-title {
+    display: inline-flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+  
+}
+
+
+.loader-titles {
+    margin: 10px 2px;
+}
+
+.loader-segment {
+    margin-top: 10px;
+}
